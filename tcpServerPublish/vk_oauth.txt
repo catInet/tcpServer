@@ -1,3 +1,0 @@
-https://oauth.vk.com/authorize?client_id=5015080&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=messages&response_type=code&v=5.35
-07d5b35b9ffb77bd59
-https://oauth.vk.com/access_token?client_id=5015080&client_secret=CH0JwsQRB57RNrY1eEZE&redirect_uri=http://catinet.azurewebsites.net/&code=07d5b35b9ffb77bd59
