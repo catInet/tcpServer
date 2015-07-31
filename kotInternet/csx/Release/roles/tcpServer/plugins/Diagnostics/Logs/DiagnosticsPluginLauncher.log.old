@@ -1,0 +1,18 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Emulator config file set to C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\kotInternet\csx\Release\roles\tcpServer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] DiagnosticsStoreRootPath set to: C:\Users\Настя\AppData\Local\dftmp\Resources\48e50876-e5e2-41b5-bafa-63fc02115a2b
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Loading config file: C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\kotInternet\csx\Release\roles\tcpServer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Emulator config file set to C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\kotInternet\csx\Release\roles\tcpServer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:31] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:32] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:32] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:32] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:32] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:16:32] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:17:42] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:17:42] DiagnosticPlugin exited with code 0

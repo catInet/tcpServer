@@ -1,0 +1,126 @@
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\tcpServer.dll.config
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\tcpServer.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\tcpServer.pdb
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.OData.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.Services.Client.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Newtonsoft.Json.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\System.Spatial.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\MonAgentListener.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.OData.xml
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.Services.Client.xml
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Newtonsoft.Json.xml
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\System.Spatial.xml
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\de\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\es\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\it\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.csprojResolveAssemblyReference.cache
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.Properties.Resources.resources
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.csproj.GenerateResource.Cache
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.dll
+c:\users\harry morgan\documents\visual studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.pdb
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\tcpServer.dll.config
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\tcpServer.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\tcpServer.pdb
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\System.Spatial.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\MonAgentListener.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\System.Spatial.xml
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.Properties.Resources.resources
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.pdb
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\obj\Debug\tcpServer.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\MathNet.Numerics.dll
+C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\tcpServer\bin\Debug\MathNet.Numerics.xml

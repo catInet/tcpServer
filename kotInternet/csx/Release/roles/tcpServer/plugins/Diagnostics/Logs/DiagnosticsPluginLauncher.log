@@ -1,0 +1,19 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Emulator config file set to C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\kotInternet\csx\Release\roles\tcpServer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] DiagnosticsStoreRootPath set to: C:\Users\Настя\AppData\Local\dftmp\Resources\48e50876-e5e2-41b5-bafa-63fc02115a2b
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Loading config file: C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\kotInternet\csx\Release\roles\tcpServer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Emulator config file set to C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\kotInternet\csx\Release\roles\tcpServer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\kotInternet\csx\Release\roles\tcpServerPublish\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v4.
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Loading config file: C:\Users\Настя\Documents\Visual Studio 2013\Projects\kotInternet\kotInternet\csx\Release\roles\tcpServer\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:18:49] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Error: 0 : [31.07.2015 6:19:56] DiagnosticsPlugin launch failed with exit code -1
+DiagnosticsPluginLauncher.exe Information: 0 : [31.07.2015 6:19:56] DiagnosticPlugin exited with code -1
